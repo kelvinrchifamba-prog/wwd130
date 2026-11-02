@@ -1,0 +1,18 @@
+{
+    "chat.agent.sandbox.enabled": "on",
+    "chat.agent.sandbox.network.allowLocalNetwork": true,
+    "chat.tools.terminal.ignoreDefaultAutoApproveRules": true,
+    "chat.tools.terminal.outputDeltas": true,
+    "chat.includeReferencedInstructions": true,
+    "chat.experimental.useSkillAdherencePrompt": true,
+    "chat.useNestedAgentsMdFiles": true,
+    "terminal.integrated.allowInUntrustedWorkspace": true,
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.suggest.providers": {
+        "lsp": true
+    },
+    "python.analysis.useLegacyTypeServerBackgroundProcess": true,
+    "python.analysis.enableExternalTypeServer": true,
+    "chat.useClaudeHooks": true,
+    "chat.useCustomizationsInParentRepositories": true
+}
